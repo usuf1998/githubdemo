@@ -40,6 +40,7 @@ public class IndexPage extends baseClass {
 		
 		Assert.assertTrue(result);
 		Log.info("validate logo sucess");
+		System.out.println("this is second commit");
 		
 		
 	}
