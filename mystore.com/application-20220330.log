@@ -1,0 +1,3 @@
+2022-03-30 16:25:19.062 [main] INFO  com.mystore.utility.Log - this is info
+2022-03-30 16:25:19.066 [main] ERROR com.mystore.utility.Log - this is error hai ji
+2022-03-30 16:25:19.066 [main] FATAL com.mystore.utility.Log - this is fatal
